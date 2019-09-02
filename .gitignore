@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+Domain/bin/
+Domain/obj/Debug/netcoreapp2.1/Domain.csprojAssemblyReference.cache
+forecastTestProject/bin/
+forecastTestProject/obj/
+/Forecast.Web/wwwroot/
